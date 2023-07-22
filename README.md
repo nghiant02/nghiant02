@@ -1,7 +1,10 @@
 # 💫About Me :
 Hi there 👋
+
 I'm Nghia!
+
 I’m currently learning Software Engineering at FPT University.
+
 You can contact me via nghia2852002@gmail.com.
 
 # 💻Tech Stack
