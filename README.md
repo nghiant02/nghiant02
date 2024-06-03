@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">Vietnamese Software Engineer with a Passion for Innovation</h3>
 
-- 🌱 I’m currently learning FPT University **ASP.NET, Entity Framework, WPF, Unity, ...**
+- 🌱 I’m currently learning FPT University **ASP.NET Core, Entity Framework, Winform, WPF, Unity, Android Studio, ...**
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/nghiant02](https://github.com/nghiant02)
 
