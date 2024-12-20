@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nghĩa</h1>
-<h3 align="center">Vietnamese Software Engineer with a Passion for Innovation</h3>
+<h3 align="center">Software Engineer with a Passion for Innovation</h3>
 
 - 🌱 I’m currently learning FPT University **ASP.NET Core, Entity Framework, Winform, WPF, Unity, Android Studio, ...**
 
