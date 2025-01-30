@@ -8,3 +8,52 @@
 - 📫 How to reach me **nghia2852002@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nguyen-trong-nghia-06bb102b2/](https://www.linkedin.com/in/nguyen-trong-nghia-06bb102b2/)
+
+## Technical Skills
+
+### Development & Frameworks
+- ASP.NET Core
+- Entity Framework
+- Next.js
+- WPF & Winform
+- Unity
+- Android Studio
+- Clean Architecture & CQRS
+- Microservices
+- TanStack Query
+- Zustand
+- ShadCN
+
+### Programming & Database
+- C#
+- Python
+- JavaScript/TypeScript
+- SQL
+- PostgreSQL
+- MongoDB
+- Redis
+- Object-oriented Programming
+
+### Backend & Integration
+- RESTful APIs
+- WebSocket
+- RabbitMQ
+- Webhook
+- Real-time Systems
+- API Integration
+
+### DevOps & Cloud
+- Docker
+- Kubernetes (K8s)
+- Google Kubernetes Engine (GKE)
+- Railway
+- CI/CD
+- Git & GitHub
+
+### Development Practices
+- Clean Code
+- System Architecture
+- Test-Driven Development
+- Performance Optimization
+- Database Design
+- Version Control
