@@ -14,20 +14,15 @@
 ### Development & Frameworks
 - ASP.NET Core
 - Entity Framework
-- Next.js
 - WPF & Winform
 - Unity
 - Android Studio
 - Clean Architecture & CQRS
 - Microservices
-- TanStack Query
-- Zustand
-- ShadCN
 
 ### Programming & Database
 - C#
 - Python
-- JavaScript/TypeScript
 - SQL
 - PostgreSQL
 - MongoDB
@@ -36,7 +31,6 @@
 
 ### Backend & Integration
 - RESTful APIs
-- WebSocket
 - RabbitMQ
 - Webhook
 - Real-time Systems
